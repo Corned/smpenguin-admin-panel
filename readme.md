@@ -11,7 +11,7 @@ PASSWORD=mysecretpassword
 
 ## Installation
 
-Run `npm run install` and then `npm run build` in the root directory.
+Run `npm run install` to install packages for both the React app and the server. Then `npm run build` in the root directory to build the React app.
 
 ## Running
 
