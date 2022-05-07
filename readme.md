@@ -11,7 +11,7 @@ PASSWORD=mysecretpassword
 
 ## Installation
 
-Run `npm install` and then `npm build` in the root directory.
+Run `npm run install` and then `npm run build` in the root directory.
 
 ## Running
 
